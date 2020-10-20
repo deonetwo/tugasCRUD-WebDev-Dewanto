@@ -1,4 +1,4 @@
-# democrud
+# CRUD
 
 ## Project setup
 ```
